@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\micronet\\salto login\\salto\\salto.csproj": {}
+    "D:\\micronet\\SaltoLogin\\salto.csproj": {}
   },
   "projects": {
-    "D:\\micronet\\salto login\\salto\\salto.csproj": {
+    "D:\\micronet\\SaltoLogin\\salto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\micronet\\salto login\\salto\\salto.csproj",
+        "projectUniqueName": "D:\\micronet\\SaltoLogin\\salto.csproj",
         "projectName": "salto",
-        "projectPath": "D:\\micronet\\salto login\\salto\\salto.csproj",
+        "projectPath": "D:\\micronet\\SaltoLogin\\salto.csproj",
         "packagesPath": "C:\\Users\\pista\\.nuget\\packages\\",
-        "outputPath": "D:\\micronet\\salto login\\salto\\obj\\",
+        "outputPath": "D:\\micronet\\SaltoLogin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pista\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,31 +63,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[8.0.8, 8.0.8]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[8.0.8, 8.0.8]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[8.0.8, 8.0.8]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
